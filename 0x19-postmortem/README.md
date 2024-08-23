@@ -48,5 +48,5 @@ cat /etc/nginx/sites-available/default > /etc/nginx/sites-enabled/default sudo s
 
 This script ensures that the correct configuration is enabled and restarts Nginx to apply the changes.
 
-![Image]
+![download](https://github.com/user-attachments/assets/47ff41b1-65bb-4f04-9522-a68977e9e70b)
 
