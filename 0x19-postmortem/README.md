@@ -48,5 +48,5 @@ cat /etc/nginx/sites-available/default > /etc/nginx/sites-enabled/default sudo s
 
 This script ensures that the correct configuration is enabled and restarts Nginx to apply the changes.
 
-![Image](./postmoterm_image.webp)
+![Image]
 
